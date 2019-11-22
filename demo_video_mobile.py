@@ -30,7 +30,7 @@ from nms.cpu_nms import cpu_nms
 
 # import GCN utils
 from graph import visualize_pose_matching
-from graph  .visualize_pose_matching import *
+from graph.visualize_pose_matching import *
 
 # import my own utils
 import sys, os, time
